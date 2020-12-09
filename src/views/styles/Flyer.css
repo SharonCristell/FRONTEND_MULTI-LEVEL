@@ -1,0 +1,17 @@
+.flyer{
+    max-width: 100%;
+    position: relative;
+}
+
+.avatar-flyer{
+    max-width: 30%;
+    position: absolute;
+    border-radius: 50%;
+    top: 20%;
+    left: 35%;
+}
+
+.modal-90w{
+    /* width: 600px; */
+    max-width: 600px;
+  }

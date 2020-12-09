@@ -1,0 +1,25 @@
+.custom-tabs {
+    border: 0px;
+    margin: 10px;
+}
+.nav-tabs {
+    border-bottom: 0px solid #dee2e6;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #142d47;
+    border: 0px;
+    border-bottom: 4px solid #f0692c;
+}
+
+.custom-tabs a{
+    color: #7b7b7b;
+}
+
+.titletabs {
+    font-size: 12px;
+}
+
+.custom-tabs-main a{
+    color: #7b7b7b;
+    font-size: 16px;
+}

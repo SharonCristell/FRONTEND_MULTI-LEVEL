@@ -1,0 +1,102 @@
+handleCheckClick = () => {
+  this.setState({ checked: !this.state.checked });
+}
+and change the checkbox jsx:
+
+<input type="checkbox" checked={this.state.checked} onChange={this.handleCheckClick} classN
+
+this.setState(prevState => ({
+    jasper: {                   // object that we want to update
+        ...prevState.jasper,    // keep all other key-value pairs
+        name: 'something'       // update the value of specific key
+    }
+}))
+
+
+{
+    "username":"MN99923333323333333119922999",
+    "password":"MN99923333323333333119922999"
+}
+test token 
+const response = pm.response.json();
+pm.environment.set("jwt_token", response.access_Token);
+
+authorixation
+Token {{jwt_token}}
+
+
+
+    // TODO date
+    // var today = new Date('05 October 2011 14:48 UTC');
+    // //console.log(today.toISOString()); // Devuelve 2011-10-05T14:48:00.000Z
+
+window.location.reload(false)
+
+
+icons:
+https://www.flaticon.com/packs/ecommerce-236?word=shop
+
+https://www.flaticon.com/packs/e-commerce-3?word=shop
+
+https://www.flaticon.com/packs/e-commerce-25?word=shop
+
+https://www.flaticon.com/packs/retail-9?word=shop
+
+https://www.flaticon.com/packs/food-drink-6?word=shop
+
+https://www.flaticon.com/packs/influencer-marketing-3?word=shop
+
+https://www.flaticon.com/packs/e-commerce-121?word=shop
+
+https://www.flaticon.com/packs/e-commerce-7?word=shop
+
+https://www.flaticon.com/packs/web-store?word=shop
+
+https://www.flaticon.com/packs/web-store-2?word=shop
+
+https://www.flaticon.com/packs/shopping-8?word=shop
+
+https://www.flaticon.com/packs/pet-shop-57?word=shop
+
+https://www.flaticon.com/packs/sales-16?word=shop
+
+https://www.flaticon.com/packs/pet-shop-48?word=shop
+
+https://www.flaticon.com/packs/pet-shop-75?word=shop
+
+https://www.flaticon.com/packs/pet-shop-56?word=shop
+
+https://www.flaticon.com/packs/pawn-shop-4?word=shop  -> yellow shadow
+
+https://github.com/kodbiro/r-orgchart
+
+https://www.kodbiro.com/kborg/?d=N4IgJghgLhIFwG1QEszwIwBoRWVANgKbwgBKA9uVCNgAoQBOhAdlAJJpzMCu++AvphScATNlwFicEADlCAdwAEzcmGJ1GLdp3SDh8AMzi8REnKUq1NEPSasOGPSFTwALMclmFy1epub7HScXOABWD1Npcx8rDTttRyFnTgA2CKlZb0s-Wy0HOF0kkIB2dK8LX2tcwMcAXWwAZygATyIAEWhYOFBmCABbDIBpVQAjZAZyaybWwgb4UHxkZkIAYXJ8cgYSAGJCYoBOMABjfetsgGUWyNARiCOAawBzCe5mMDWNreltiGLCdEIp2wI02ai+IFcAAcAB6KBrrVCKXYHY5AkBHdabHYABlx1gAZuRWAB1QjIR4AC2o0lCeOw8lQUApJHQtJh1hBDDBpAgYGQ3Dm0hE7MEIBGUGYDUuM3mYruTxebw+WO+e0OJw5oMI4OFsPhizASLVqOsGM+O3xlusDLATJI+2xIuB8ue5FenBuLsV70x4O2uOxIFF2RW+AgDQaMn6GQ5EoaofDkejJGsfQgSwTEajAxIYDdIyIAFpOWDCza7fxK0A
+
+
+test arbol 
+https://webkid.io/blog/react-flow-node-based-graph-library/
+
+
+/usr/lib/node_modules/firebase-tools/node_modules/configstore/index.js:52
+			throw error;
+			^
+
+Error: EACCES: permission denied, open '/home/liz/.config/configstore/firebase-tools.json'
+You don't have access to this file.
+
+    at Object.openSync (fs.js:462:3)
+    at Object.readFileSync (fs.js:364:35)
+    at Configstore.get all [as all] (/usr/lib/node_modules/firebase-tools/node_modules/configstore/index.js:34:25)
+    at Configstore.get (/usr/lib/node_modules/firebase-tools/node_modules/configstore/index.js:77:27)
+    at Object.<anonymous> (/usr/lib/node_modules/firebase-tools/lib/previews.js:10:30)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  errno: -13,
+  syscall: 'open',
+  code: 'EACCES',
+  path: '/home/liz/.config/configstore/firebase-tools.json'
+}
+liz@strix:~/Documents/work/FRONTEND_MULTI-LEVEL2.0/backoffice$ sudo chown -R $USER ~/.config/configstore

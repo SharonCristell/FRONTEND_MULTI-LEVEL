@@ -1,0 +1,82 @@
+
+{
+
+    "documentTypes":[
+        {
+            "id": 1,
+            "title":"Certificado",
+            "subtitle": "Aclara",
+            "body": {
+                "descriptionSection": {
+                    "Line1":"Que el contrato",
+                    "Line2":" a nombre del Sr.(a)",
+                    "Line3":" podrá hacer uso de los beneficios de su membresía",
+                    "Line4":" podrá hacer uso de los beneficios de su membresía",
+                    "Line5":" una vez cancelado el valor de la cuota inicial, según sus especificaciones de su contrato"
+                },
+                "benefitSection": {
+                    "Line1":"Activa sus beneficios según los plazos indicados en contrato de la siguiente manera: ",
+                    "Line2":"• Plan Descuentos: 20% hasta 40% en la Tienda Keola",
+                    "Line3":"• Plan Publicitario: Personal y Negocios PLATINIUM",
+                    "Line4":"• En caso de hacerse socio de un Desarrollo Hotelero de inResorts, durante el primer año, se DUPLICARIAN las acciones adquiridas de Keola según la Tabla de afiliación a inResorts adjunta en este documento."
+                  
+                },
+                "signSection": {
+                    "Line1":"                      ..........................                               ",
+                    "Line2":"• Plan Descuentos: 20% hasta 40% en la Tienda Keola",
+                    "RUC":"20601460271"
+                },
+                "discountPlan": {
+                    "Line1":"                      ..........................                               ",
+                    "Line2":"• Plan Descuentos: 20% hasta 40% en la Tienda Keola",
+                    "RUC":"20601460271"
+                },
+                "accountAdvertisement": {
+                    "Line1":"                      ..........................                               ",
+                    "Line2":"• Plan Descuentos: 20% hasta 40% en la Tienda Keola",
+                    "RUC":"20601460271"
+                }  
+            }    
+        },  
+        
+        {
+
+            "id": 2,
+            "title":"Contrato",
+            "subtitle": "Aclara",
+            "body": {
+                "descriptionSection": {
+                    "Line1":"Que el contrato",
+                    "Line2":" a nombre del Sr.(a)",
+                    "Line3":" podrá hacer uso de los beneficios de su membresía",
+                    "Line4":" podrá hacer uso de los beneficios de su membresía",
+                    "Line5":" una vez cancelado el valor de la cuota inicial, según sus especificaciones de su contrato"
+                },
+                "benefitSection": {
+                    "Line1":"Activa sus beneficios según los plazos indicados en contrato de la siguiente manera: ",
+                    "Line2":"• Plan Descuentos: 20% hasta 40% en la Tienda Keola",
+                    "Line3":"• Plan Publicitario: Personal y Negocios PLATINIUM",
+                    "Line4":"• En caso de hacerse socio de un Desarrollo Hotelero de inResorts, durante el primer año, se DUPLICARIAN las acciones adquiridas de Keola según la Tabla de afiliación a inResorts adjunta en este documento."
+                  
+                },
+                "signSection": {
+                    "Line1":"                      ..........................                               ",
+                    "Line2":"• Plan Descuentos: 20% hasta 40% en la Tienda Keola",
+                    "RUC":"20601460271"
+                },
+                "discountPlan": {
+                    "Line1":"                      ..........................                               ",
+                    "Line2":"• Plan Descuentos: 20% hasta 40% en la Tienda Keola",
+                    "RUC":"20601460271"
+                },
+                "accountAdvertisement": {
+                    "Line1":"                      ..........................                               ",
+                    "Line2":"• Plan Descuentos: 20% hasta 40% en la Tienda Keola",
+                    "RUC":"20601460271"
+                }      
+        
+        }
+    }]
+
+
+}
